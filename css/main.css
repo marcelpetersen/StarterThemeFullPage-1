@@ -1,0 +1,41 @@
+body {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*--------------------------------------------------------------
+Things to override Bootstrap's defaults
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+General class that can be reused
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+Specific styles
+--------------------------------------------------------------*/
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+    /*display: inline-block;*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
